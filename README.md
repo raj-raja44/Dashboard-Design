@@ -67,12 +67,12 @@ Analyze Business Performance
 
 ### Dashboard View 1
 
-![Dashboard View 1](Screenshot%202025-04-11%20141125.png)
+![Dashboard View 1](./Screenshot%202025-04-11%20141125.png)
 
 ### Dashboard View 2
 
-![Dashboard View 2](Screenshot%202025-04-11%20141201.png)
+![Dashboard View 2](./Screenshot%202025-04-11%20141201.png)
 
 ### Dashboard View 3
 
-![Dashboard View 3](Screenshot%202025-04-11%20141257.png)
+![Dashboard View 3](./Screenshot%202025-04-11%20141257.png)
